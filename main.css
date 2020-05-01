@@ -1,220 +1,15 @@
 
 
-@font-face {
-    font-family: 'camptonextralight_italic';
-    src: url('../_webfonts/Campton/rene.bieder_campton.extralight.italic-webfont.eot');
-    src: url('../_webfonts/Campton/rene.bieder_campton.extralight.italic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../_webfonts/Campton/rene.bieder_campton.extralight.italic-webfont.woff2') format('woff2'),
-         url('../_webfonts/Campton/rene.bieder_campton.extralight.italic-webfont.woff') format('woff'),
-         url('../_webfonts/Campton/rene.bieder_campton.extralight.italic-webfont.ttf') format('truetype'),
-         url('../webfonts/campton/rene.bieder_campton.extralight.italic-webfont.svg#camptonextralight_italic') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'camptonextralight';
-    src: url('../_webfonts/Campton/rene.bieder_campton.extralight-webfont.eot');
-    src: url('../_webfonts/Campton/rene.bieder_campton.extralight-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../_webfonts/Campton/rene.bieder_campton.extralight-webfont.woff2') format('woff2'),
-         url('../_webfonts/Campton/rene.bieder_campton.extralight-webfont.woff') format('woff'),
-         url('../_webfonts/Campton/rene.bieder_campton.extralight-webfont.ttf') format('truetype'),
-         url('../_webfonts/Campton/rene.bieder_campton.extralight-webfont.svg#camptonextralight') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'camptonlight';
-    src: url('../_webfonts/Campton/rene.bieder_campton.light-webfont.eot');
-    src: url('../_webfonts/Campton/rene.bieder_campton.light-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../_webfonts/Campton/rene.bieder_campton.light-webfont.woff2') format('woff2'),
-         url('../_webfonts/Campton/rene.bieder_campton.light-webfont.woff') format('woff'),
-         url('../_webfonts/Campton/rene.bieder_campton.light-webfont.ttf') format('truetype'),
-         url('../_webfonts/Campton/rene.bieder_campton.light-webfont.svg#camptonlight') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'camptonlight_italic';
-    src: url('../_webfonts/Campton/rene.bieder_campton.light.italic-webfont.eot');
-    src: url('../_webfonts/Campton/rene.bieder_campton.light.italic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../webfonts/campton/rene.bieder_campton.light.italic-webfont.woff2') format('woff2'),
-         url('../_webfonts/Campton/rene.bieder_campton.light.italic-webfont.woff') format('woff'),
-         url('../_webfonts/Campton/rene.bieder_campton.light.italic-webfont.ttf') format('truetype'),
-         url('../_webfonts/Campton/rene.bieder_campton.light.italic-webfont.svg#camptonlight_italic') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'camptonmedium';
-    src: url('../_webfonts/Campton/rene.bieder_campton.medium-webfont.eot');
-    src: url('../_webfonts/Campton/rene.bieder_campton.medium-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../_webfonts/Campton/rene.bieder_campton.medium-webfont.woff2') format('woff2'),
-         url('../_webfonts/Campton/rene.bieder_campton.medium-webfont.woff') format('woff'),
-         url('../_webfonts/Campton/rene.bieder_campton.medium-webfont.ttf') format('truetype'),
-         url('../_webfonts/Campton/rene.bieder_campton.medium-webfont.svg#camptonmedium') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'camptonmedium_italic';
-    src: url('../_webfonts/Campton/rene.bieder_campton.medium.italic-webfont.eot');
-    src: url('../_webfonts/Campton/rene.bieder_campton.medium.italic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../_webfonts/Campton/rene.bieder_campton.medium.italic-webfont.woff2') format('woff2'),
-         url('../webfonts/campton/rene.bieder_campton.medium.italic-webfont.woff') format('woff'),
-         url('../_webfonts/Campton/rene.bieder_campton.medium.italic-webfont.ttf') format('truetype'),
-         url('../_webfonts/Campton/rene.bieder_campton.medium.italic-webfont.svg#camptonmedium_italic') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'camptonsemibold';
-    src: url('../_webfonts/Campton/rene.bieder_campton.semibold-webfont.eot');
-    src: url('../_webfonts/Campton/rene.bieder_campton.semibold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../_webfonts/Campton/rene.bieder_campton.semibold-webfont.woff2') format('woff2'),
-         url('../_webfonts/Campton/rene.bieder_campton.semibold-webfont.woff') format('woff'),
-         url('../_webfonts/Campton/rene.bieder_campton.semibold-webfont.ttf') format('truetype'),
-         url('../_webfonts/Campton/rene.bieder_campton.semibold-webfont.svg#camptonsemibold') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'camptonthin';
-    src: url('../_webfonts/Campton/rene.bieder_campton.thin-webfont.eot');
-    src: url('../_webfonts/Campton/rene.bieder_campton.thin-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../_webfonts/Campton/rene.bieder_campton.thin-webfont.woff2') format('woff2'),
-         url('../_webfonts/Campton/rene.bieder_campton.thin-webfont.woff') format('woff'),
-         url('../_webfonts/Campton/rene.bieder_campton.thin-webfont.ttf') format('truetype'),
-         url('../_webfonts/Campton/rene.bieder_campton.thin-webfont.svg#camptonthin') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'camptonbook';
-    src: url('../_webfonts/Campton/rene.bieder_campton.book-webfont.eot');
-    src: url('../_webfonts/Campton/rene.bieder_campton.book-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../_webfonts/Campton/rene.bieder_campton.book-webfont.woff2') format('woff2'),
-         url('../_webfonts/Campton/rene.bieder_campton.book-webfont.woff') format('woff'),
-         url('../_webfonts/Campton/rene.bieder_campton.book-webfont.ttf') format('truetype'),
-         url('../_webfonts/Campton/rene.bieder_campton.book-webfont.svg#camptonbook') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'camptonthin_italic';
-    src: url('../_webfonts/Campton/rene.bieder_campton.thin.italic-webfont.eot');
-    src: url('../_webfonts/Campton/rene.bieder_campton.thin.italic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../_webfonts/Campton/rene.bieder_campton.thin.italic-webfont.woff2') format('woff2'),
-         url('../_webfonts/Campton/rene.bieder_campton.thin.italic-webfont.woff') format('woff'),
-         url('../_webfonts/Campton/rene.bieder_campton.thin.italic-webfont.ttf') format('truetype'),
-         url('../_webfonts/Campton/rene.bieder_campton.thin.italic-webfont.svg#camptonthin_italic') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'campton_bookbold';
-    src: url('../_webfonts/Campton/rene.bieder_campton.bold-webfont.eot');
-    src: url('../_webfonts/Campton/rene.bieder_campton.bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../_webfonts/Campton/rene.bieder_campton.bold-webfont.woff2') format('woff2'),
-         url('../_webfonts/Campton/rene.bieder_campton.bold-webfont.woff') format('woff'),
-         url('../_webfonts/Campton/rene.bieder_campton.bold-webfont.ttf') format('truetype'),
-         url('../_webfonts/Campton/rene.bieder_campton.bold-webfont.svg#campton_bookbold') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'camptonblack';
-    src: url('../_webfonts/Campton/rene.bieder_campton.black-webfont.eot');
-    src: url('../_webfonts/Campton/rene.bieder_campton.black-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../_webfonts/Campton/rene.bieder_campton.black-webfont.woff2') format('woff2'),
-         url('../_webfonts/Campton/rene.bieder_campton.black-webfont.woff') format('woff'),
-         url('../_webfonts/Campton/rene.bieder_campton.black-webfont.ttf') format('truetype'),
-         url('../_webfonts/Campton/rene.bieder_campton.black-webfont.svg#camptonblack') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'camptonblack_italic';
-    src: url('../_webfonts/Campton/rene.bieder_campton.black.italic-webfont.eot');
-    src: url('../_webfonts/Campton/rene.bieder_campton.black.italic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../_webfonts/Campton/rene.bieder_campton.black.italic-webfont.woff2') format('woff2'),
-         url('../webfonts/campton/rene.bieder_campton.black.italic-webfont.woff') format('woff'),
-         url('../_webfonts/Campton/rene.bieder_campton.black.italic-webfont.ttf') format('truetype'),
-         url('../_webfonts/Campton/rene.bieder_campton.black.italic-webfont.svg#camptonblack_italic') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'camptonextrabold';
-    src: url('../_webfonts/Campton/rene.bieder_campton.extrabold-webfont.eot');
-    src: url('../_webfonts/Campton/rene.bieder_campton.extrabold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../_webfonts/Campton/rene.bieder_campton.extrabold-webfont.woff2') format('woff2'),
-         url('../_webfonts/Campton/rene.bieder_campton.extrabold-webfont.woff') format('woff'),
-         url('../_webfonts/Campton/rene.bieder_campton.extrabold-webfont.ttf') format('truetype'),
-         url('../_webfonts/Campton/rene.bieder_campton.extrabold-webfont.svg#camptonextrabold') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'camptonbook_italic';
-    src: url('../_webfonts/Campton/rene.bieder_campton.book.italic-webfont.eot');
-    src: url('../_webfonts/Campton/rene.bieder_campton.book.italic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../_webfonts/Campton/rene.bieder_campton.book.italic-webfont.woff2') format('woff2'),
-         url('../_webfonts/Campton/rene.bieder_campton.book.italic-webfont.woff') format('woff'),
-         url('../_webfonts/Campton/rene.bieder_campton.book.italic-webfont.ttf') format('truetype'),
-         url('../_webfonts/Campton/rene.bieder_campton.book.italic-webfont.svg#camptonbook_italic') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'campton_bookbold_italic';
-    src: url('../_webfonts/Campton/rene.bieder_campton.bold.italic-webfont.eot');
-    src: url('../_webfonts/Campton/rene.bieder_campton.bold.italic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../_webfonts/Campton/rene.bieder_campton.bold.italic-webfont.woff2') format('woff2'),
-         url('../_webfonts/Campton/rene.bieder_campton.bold.italic-webfont.woff') format('woff'),
-         url('../_webfonts/Campton/rene.bieder_campton.bold.italic-webfont.ttf') format('truetype'),
-         url('../_webfonts/Campton/rene.bieder_campton.bold.italic-webfont.svg#campton_bookbold_italic') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
+font-family: 'Open Sans', sans-serif;
 
 body,td,th {
-	font-family: "camptonlight";
+	font-family: "Open Sans";
 	font-size: 14px;
 }
 
 h1,h2,h3,h4,h5,h6 {
-	font-family: "campton_bookbold";
+	font-family: "Open Sans";
+    font-weight: bold;
 }
 
 h1 {
@@ -231,7 +26,8 @@ h3 {
 }
 
 strong {
-	font-family: "campton_bookbold";
+	font-family: "Open Sans";
+    font-weight: bolder;
 }
 
 em { 
@@ -244,7 +40,7 @@ em {
 	position: absolute;
 	top: 0;
 	z-index: 40;
-	background: url('../_images/header.png') no-repeat;
+	background: url('../images/header.png') no-repeat;
 	left: 50%;
 	margin-left: -360px;
 }
